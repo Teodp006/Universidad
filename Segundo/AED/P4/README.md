@@ -24,13 +24,15 @@ Por otra parte yo definí la estructura `TIPOARCO`que compone cada $a_{ij}$ de l
 ### Matriz de Adyacencia
 Inicialización:
 
-$\begin{pmatrix}
-    Null && Null && Null && ... && Null \\
-    Null && Null && Null && ... && Null \\
-    Null && Null && Null && ... && Null \\
-    \vdots && \vdots && \vdots && \ddots && Null \\
-    Null && Null && Null && Null && Null
-\end{pmatrix}$
+$$
+\begin{pmatrix}
+    Null & Null & Null & ... & Null \\
+    Null & Null & Null & ... & Null \\
+    Null & Null & Null & ... & Null \\
+    \vdots & \vdots & \vdots & \ddots & \vdots \\
+    Null & Null & Null & Null & Null
+\end{pmatrix}
+$$
 
 Para entenderlo mejor $A[i][j]$ será exactamente la conexión entre los vértices (a $G\rightarrow vertices$ la llamaremos `array`, porque es un array de vértices):
 
