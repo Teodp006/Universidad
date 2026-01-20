@@ -17,10 +17,11 @@
         <li> Las prácticas rentan mucho 🏆</li>
         <li> Ir a clase es prescindible, pero lo recomiendo</li>
         <li> Ribera es muy duro pero explica bien</li>
-        <li> <a href ="https://github.com/Teodp006/Universidad/blob/main/Segundo/SOI/SOIFINAL.pdf">Apuntes del Taneunbam</a> es fundamental 📖</li>
+        <li> <a href="https://raw.githubusercontent.com/Teodp006/Universidad/main/Segundo/SOI/SOIFINAL.pdf"> Apuntes del Taneunbam</a> es fundamental 📖</li>
         </li>
       </ul>
     </p>
     <h1> Segundo cuatrimestre</h1>
   </body>
 </html>
+
