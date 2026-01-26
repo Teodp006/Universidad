@@ -5,7 +5,7 @@
   <body>
     <h1> Programación Orientada a Objetos</h1>
     <blockquote>
-        Créditos a <a href = "https://github.com/domin831">Imanol Domínguez Neira</a> y <a href = "https://github.com/b4rc14">Pablo Barcia Marcial</a> por ayudarme con este proyecto :D
+        Créditos a <a href = "https://github.com/domin831">Imanol Domínguez Neira</a> y <a href = "https://github.com/b4rc14">Pablo Barcia Marcial</a> por colaborar conmigo en el Monopoly, os quiero chavales 🖤
     </blockquote>
     <h2></h2> <!--- Solo para la línea horizontal--->
     <h3 align="center">Elementos que encontrarás a continuación: </h3>
@@ -35,3 +35,4 @@
     <p> <strong>OJO</strong>, todo esto no lo he hecho, algunas recomendaciones son a base de mis cagadas, eso si las prácticas del Monopoly puedes verlas tranquilo, están de 10🤩.</p>
   </body>
 </html>
+
