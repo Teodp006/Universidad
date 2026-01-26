@@ -9,6 +9,9 @@ Si ves algo que está mal haz `fork` de este directorio y mándame una **pull re
 ## Información por cursos
 
 - Primero
-- Segundo
+    - Yet in work... 🛠️
+- <a href="https://github.com/Teodp006/Universidad/tree/main/Segundo">Segundo </a>
+    - Primer cuatri ✅
+    - Segundo cuatri (Aquí estoy yo ⬅️🙍‍♂️)
 - Tercero
 - Cuarto
