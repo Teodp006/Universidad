@@ -107,7 +107,7 @@
         <ul>
           <li> Si puedes <strong>ve a las presentaciones o hazlas</strong>, en nuestro exámen preguntó sobre Diagrama de Estados y Zona U 🔑</li>
         </ul>
-        <li> Ribera es muy duro pero explica bien</li>
+        <li> Rivera es muy duro pero explica bien</li>
         <li> <a href="https://github.com/Teodp006/Universidad/raw/8346804763aa3fd178d09aebbcf351e15450814a/Segundo/SOI/SOIFINAL.pdf"> Apuntes del Taneunbam</a> es fundamental 📖</li>
         </li>
       </ul>
@@ -115,6 +115,7 @@
     <h1> Segundo cuatrimestre</h1>
   </body>
 </html>
+
 
 
 
