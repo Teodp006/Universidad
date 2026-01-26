@@ -83,7 +83,7 @@
       </ul>
     <h2>4. Redes</h2>
     <ul>
-        <li> Nota media de prácticas: <a href="https://github.com/Teodp006/Universidad/blob/main/Segundo/Notas/PracticasSOI.png">9,5</a>
+        <li> Nota media de prácticas: <a href="">"-"</a>
         <li> Nota exámen final: </li>
         <li> Es difícil conceptualmente 🔥🔥🔥</li>
         <ul>
@@ -115,6 +115,7 @@
     <h1> Segundo cuatrimestre</h1>
   </body>
 </html>
+
 
 
 
