@@ -29,8 +29,8 @@
     <h2>1. AED</h2>
     <p>
       <ul>
-        <li> Nota media de práticas: <a href="https://github.com/Teodp006/Universidad/blob/main/Segundo/Notas/PracticasAED.png">"8,5"</a></li>
-        <li> Nota exámen final: "-" (Extremadamente fácil 🌴🌊)</li>
+        <li> Nota media de práticas: <a href="https://github.com/Teodp006/Universidad/blob/main/Segundo/Notas/PracticasAED.png">8,5</a></li>
+        <li> Nota exámen final: 8,75 (Extremadamente fácil 🌴🌊)</li>
         <li> Es la más fácil del cuatri 🔥</li>
         <li> Las <a href="https://github.com/Teodp006/Universidad/tree/main/Segundo/AED/Practicas">prácticas</a> están bien 👍</li>
         <li> Las teóricas son bastante recomendables, aún así las presentaciones está muy bien, puedes entenderlo todo desde tu casa 🟢</li>
@@ -41,8 +41,8 @@
     <h2>2. POO</h2>
     <p>
       <ul>
-        <li> Nota media de prácticas: <a href="https://github.com/Teodp006/Universidad/blob/main/Segundo/Notas/PracticasPOO.png">9,5</a> </li>
-        <li> Nota exámen final: "-" </li>
+        <li> Nota media de prácticas: <a href="https://github.com/Teodp006/Universidad/blob/main/Segundo/Notas/PracticasPOO.png">9,67</a> </li>
+        <li> Nota exámen final: 8,29 </li>
         <li> Es jodida 🔥🔥🔥🔥, pero muy disfrutable en mi opinión</li>
         <li> Las <a href="https://github.com/Teodp006/Universidad/tree/main/Segundo/POO">prácticas rentan muchísimo </a>🏆</li>
         <ul>
@@ -63,13 +63,14 @@
     </p>
     <h2>3. Bases</h2>
     <ul>
-        <li> Nota del proyecto: <a href="https://github.com/Teodp006/Universidad/blob/main/Segundo/Notas">6,3</a>
+        <li> Nota del proyecto: <a href="https://github.com/Teodp006/Universidad/blob/main/Segundo/Notas/ProyectoBDD.png">6,3 (Contenido)</a>
         <ul>
-          <li> Parte individual: ➕"-" ("-" en total)</li>
+          <li> Parte individual: ➕1,25 (7,55 en total)</li>
+          <li> Parte desarollo: 9,23 en total
           <li> Es un poco coñazo, te ayuda a entender cosas de MER y MR para el final </li>
           <li> Los grupos aleatorios pueden hacerte una mala pasada </li>
         </ul>
-        <li> Nota exámen final: </li>
+        <li> Nota exámen final: 8,06</li>
         <li> Es asquible 🔥🔥</li>
         <ul>
           <li> El exámen suele ser fácil, excepto nuestro año (MER jodido☠️) </li>
@@ -83,8 +84,8 @@
       </ul>
     <h2>4. Redes</h2>
     <ul>
-        <li> Nota media de prácticas: <a href="">"-"</a>
-        <li> Nota exámen final: "-"</li>
+        <li> No me acuerdo de la nota de prácticas, la del final no nos la dieron</li>
+        <li> Nota de la evaluación completa: 8,4</li>
         <li> Es difícil conceptualmente 🔥🔥🔥</li>
         <ul>
           <li> El exámen no tanto </li>
@@ -100,7 +101,7 @@
     <p>
       <ul>
         <li> Nota media de prácticas: <a href="https://github.com/Teodp006/Universidad/blob/main/Segundo/Notas/PracticasSOI.png">9,5</a>
-        <li> Nota exámen final: "-"</li>
+        <li> Nota exámen final: 6,5</li>
         <li> Es jodida 🔥🔥🔥🔥</li>
         <li> Las <a href="">prácticas rentan mucho</a> 🏆</li>
         <li> Ir a clase es prescindible (porque SOIFINAL contiene todas sus explicaciones), pero lo recomiendo 🟡</li>
@@ -115,6 +116,7 @@
     <h1> Segundo cuatrimestre</h1>
   </body>
 </html>
+
 
 
 
